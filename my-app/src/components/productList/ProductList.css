@@ -1,0 +1,44 @@
+.popup-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius:'none';
+    width: 125px !important;
+    
+  }
+  .action:hover{
+    color: blue !important;
+    background-color: #F1F4FF !important
+    ;
+  }
+  
+  .popup-content button {
+    width: 100%;
+    margin-bottom: 0.5rem;
+  }
+  .menu-item {
+    cursor: pointer;
+    border-radius: 5px;
+  
+  }
+  
+  .menu-item:hover {
+    background-color: #F1F4FF;
+    color: blue;
+  }
+  .menu-link{
+    text-decoration: none !important;
+    color: black !important;
+  }
+  .menu-link:hover{
+    color: blue !important;
+  }
+  .nav-down{
+    height: 200px;
+  }
+  .top-custom{
+    top: 200px !important;
+  }
+  
+  
+  
